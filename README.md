@@ -3,11 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/pasodokn" target="blank"><img src="https://img.shields.io/twitter/follow/pasodokn?logo=twitter&style=for-the-badge" alt="pasodokn" /></a> </p>
 
-- 🔭 I’m currently working on [PROJ](https://github.com/Pasodokn/proj-game/)
+- 🔭 I’m currently working on [PROJ](https://github.com/Pasodokn/proj-game/), a first person movement based shooter focused on PVP combat.
+- 📝 I write articles on [pasodokn.dev/blog](https://pasodokn.dev/blog)
 
-- 📝 I regularly write articles on [https://pasodokn.dev/blog](https://pasodokn.dev/blog)
-
-- 📫 How to reach me **pasodokn@gmail.com**
+- 📫 You can reach me via email: **pasodokn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

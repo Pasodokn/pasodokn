@@ -3,7 +3,6 @@
 
 <p align="center"> <a href="https://twitter.com/pasodokn" target="blank"><img src="https://img.shields.io/twitter/follow/pasodokn?logo=twitter&style=for-the-badge" alt="pasodokn" /></a> </p>
 
-- 🔭 I’m currently working on [PROJ](https://github.com/Pasodokn/proj-game/), a first person movement shooter.
 - 📝 I write articles on [pasodokn.dev/blog](https://pasodokn.dev/blog)
 - 📫 You can reach me via email: **pasodokn@gmail.com**
 

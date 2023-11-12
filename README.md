@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on many game prototypes.
 - 🌱 I’m currently learning **Godot** and **Pixel art.**
 
-- 👨‍💻 All of my projects are available at [https://dev.pasodokn.space/](https://dev.pasodokn.space/game)
+- 👨‍💻 All of my projects are available at [https://dev.pasodokn.space/](https://dev.pasodokn.space/)
 
 - 📫 How to reach me **pasodokn@gmail.com**
 

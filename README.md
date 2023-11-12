@@ -1,7 +1,9 @@
-<h4 align="left">🔭 I’m currently working on many game prototypes
+<h4 align="left">
+  <br>🔭 I’m currently working on many game prototypes.
   <br>🌱 I’m currently learning Godot and Pixel art.
   <br>👨‍💻 All of my projects are available at <a href=https://dev.pasodokn.space>dev.pasodokn.space</a>
-  <br>📫 You can email me at <a href=mailto:pasodokn@gmail.com>pasodokn@gmail.com</a></h4>
+  <br>📫 You can email me at <a href=mailto:pasodokn@gmail.com>pasodokn@gmail.com</a>
+</h4>
 
 ###
 

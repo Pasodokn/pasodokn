@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm pasodokn</h1>
 <h3 align="center">An indie game developer from Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasodokn&label=Profile%20views&color=0e75b6&style=flat" alt="pasodokn" /> </p>
 
-- 🔭 I’m currently working on [many game prototypes](https://pasodokn.space/)
 
-- 🌱 I’m currently learning **Godot and Pixel art.**
+- 🔭 I’m currently working on many game prototypes.
+- 🌱 I’m currently learning **Godot** and **Pixel art.**
 
-- 👨‍💻 All of my projects are available at [https://dev.pasodokn.space/](https://dev.pasodokn.space/)
+- 👨‍💻 All of my projects are available at [https://dev.pasodokn.space/](https://dev.pasodokn.space/game)
 
 - 📫 How to reach me **pasodokn@gmail.com**
 

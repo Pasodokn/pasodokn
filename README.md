@@ -1,20 +1,24 @@
-<h4 align="left">
+<h1 align="center">o/</h1>
+
+<div align="left">
   <br>🔭 I’m currently working on many game prototypes.
   <br>🌱 I’m currently learning Godot and Pixel art.
   <br>👨‍💻 All of my projects are available at <a href=https://dev.pasodokn.space>dev.pasodokn.space</a>
   <br>📫 You can email me at <a href=mailto:pasodokn@gmail.com>pasodokn@gmail.com</a>
-</h4>
+</div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pasodokn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img align="center" height="150" src="https://raw.githubusercontent.com/Pasodokn/pasodokn/main/logo-pas.png"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasodokn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Pasodokn/pasodokn/main/logo-pas.png"  />
+
 
 ###
 
